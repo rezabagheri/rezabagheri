@@ -7,6 +7,8 @@ Building web applications across the stack — **Laravel & PHP** on the backend,
 occasional **Go** CLI tool. I care about clean architecture, reusable
 abstractions, and proper internationalization (including first-class RTL).
 
+🏆 **Latest:** [**Claude RTL Toolkit**](https://addons.mozilla.org/firefox/addon/claude-rtl-toolkit/) is now a published, Mozilla-reviewed **Firefox Add-on**.
+
 ---
 
 ## 🛠 Tech Stack
@@ -29,9 +31,9 @@ abstractions, and proper internationalization (including first-class RTL).
 
 | Project | Stack | What it is |
 |---------|-------|------------|
+| 🦊 [**claude-rtl-toolkit**](https://github.com/rezabagheri/claude-rtl-toolkit) | JavaScript · WebExtension | **Published [Firefox Add-on](https://addons.mozilla.org/firefox/addon/claude-rtl-toolkit/)** (Mozilla-reviewed) — real right-to-left support and per-section typography for claude.ai. Persian, Arabic, Hebrew, Urdu. |
 | [**cinexio**](https://github.com/rezabagheri/cinexio) | Laravel 12 · Vue · Inertia | A movie & series archive app with social features — friends, lists, reviews. *(work in progress)* |
 | [**paradise-widgets-for-elementor**](https://github.com/rezabagheri/paradise-widgets-for-elementor) | PHP · WordPress · Elementor | A plugin of 15 advanced, performance-focused Elementor widgets — mobile UX, local SEO, dynamic tags. |
-| [**claude-rtl-toolkit**](https://github.com/rezabagheri/claude-rtl-toolkit) | JavaScript | Right-to-left support and per-section typography for claude.ai — Persian, Arabic, Hebrew, Urdu. |
 | [**bostan**](https://github.com/rezabagheri/bostan) | Go | A CLI to plant, grow, and harvest local development sites. *(early development)* |
 
 ---
