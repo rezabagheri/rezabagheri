@@ -7,7 +7,10 @@ Building web applications across the stack — **Laravel & PHP** on the backend,
 occasional **Go** CLI tool. I care about clean architecture, reusable
 abstractions, and proper internationalization (including first-class RTL).
 
-🏆 **Latest:** [**Claude RTL Toolkit**](https://addons.mozilla.org/firefox/addon/claude-rtl-toolkit/) is now a published, Mozilla-reviewed **Firefox Add-on**.
+🏆 **Recently shipped — two publicly reviewed products:**
+
+- 🧩 [**Paradise Widgets for Elementor**](https://wordpress.org/plugins/paradise-widgets-for-elementor/) — now **live on the WordPress.org Plugin Directory**: 15 production Elementor widgets for local-business sites. [![WordPress.org version](https://img.shields.io/wordpress/plugin/v/paradise-widgets-for-elementor?label=wordpress.org&color=21759B&logo=wordpress&logoColor=white)](https://wordpress.org/plugins/paradise-widgets-for-elementor/)
+- 🦊 [**Claude RTL Toolkit**](https://addons.mozilla.org/firefox/addon/claude-rtl-toolkit/) — a Mozilla-reviewed **Firefox Add-on**: real right-to-left support for claude.ai.
 
 ---
 
@@ -31,9 +34,9 @@ abstractions, and proper internationalization (including first-class RTL).
 
 | Project | Stack | What it is |
 |---------|-------|------------|
+| 🧩 [**paradise-widgets-for-elementor**](https://github.com/rezabagheri/paradise-widgets-for-elementor) | PHP · WordPress · Elementor | **[Published on WordPress.org](https://wordpress.org/plugins/paradise-widgets-for-elementor/)** — 15 production Elementor widgets for local-business sites: click-to-call, business hours, LocalBusiness schema, mobile bottom nav, FAQ, and more. |
 | 🦊 [**claude-rtl-toolkit**](https://github.com/rezabagheri/claude-rtl-toolkit) | JavaScript · WebExtension | **Published [Firefox Add-on](https://addons.mozilla.org/firefox/addon/claude-rtl-toolkit/)** (Mozilla-reviewed) — real right-to-left support and per-section typography for claude.ai. Persian, Arabic, Hebrew, Urdu. |
 | [**cinexio**](https://github.com/rezabagheri/cinexio) | Laravel 12 · Vue · Inertia | A movie & series archive app with social features — friends, lists, reviews. *(work in progress)* |
-| [**paradise-widgets-for-elementor**](https://github.com/rezabagheri/paradise-widgets-for-elementor) | PHP · WordPress · Elementor | A plugin of 15 advanced, performance-focused Elementor widgets — mobile UX, local SEO, dynamic tags. |
 | [**bostan**](https://github.com/rezabagheri/bostan) | Go | A CLI to plant, grow, and harvest local development sites. *(early development)* |
 
 ---
