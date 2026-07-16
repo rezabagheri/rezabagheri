@@ -36,8 +36,6 @@ abstractions, and proper internationalization (including first-class RTL).
 |---------|-------|------------|
 | 🧩 [**paradise-widgets-for-elementor**](https://github.com/rezabagheri/paradise-widgets-for-elementor) | PHP · WordPress · Elementor | **[Published on WordPress.org](https://wordpress.org/plugins/paradise-widgets-for-elementor/)** — 15 production Elementor widgets for local-business sites: click-to-call, business hours, LocalBusiness schema, mobile bottom nav, FAQ, and more. |
 | 🦊 [**claude-rtl-toolkit**](https://github.com/rezabagheri/claude-rtl-toolkit) | JavaScript · WebExtension | **Published [Firefox Add-on](https://addons.mozilla.org/firefox/addon/claude-rtl-toolkit/)** (Mozilla-reviewed) — real right-to-left support and per-section typography for claude.ai. Persian, Arabic, Hebrew, Urdu. |
-| [**cinexio**](https://github.com/rezabagheri/cinexio) | Laravel 12 · Vue · Inertia | A movie & series archive app with social features — friends, lists, reviews. *(work in progress)* |
-| [**bostan**](https://github.com/rezabagheri/bostan) | Go | A CLI to plant, grow, and harvest local development sites. *(early development)* |
 
 ---
 
